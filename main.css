@@ -1,0 +1,109 @@
+h1 {
+    align-items: center;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+
+}
+
+h2 {
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+
+}
+
+
+h5 {
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+
+}
+
+section {
+
+    justify-content: center;
+    padding: 80px;
+}
+
+
+.Navigation {
+    border: 2px lightgrey outset;
+    border-radius: 400px;
+    list-style: none;
+    background-color: rgba(175, 246, 206, 0.417);
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    display: inline;
+    justify-content: center;
+    flex-direction: row;
+    padding: 60px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.Anchor {
+
+    transition: 1s;
+    cursor: pointer;
+    font-family: 'Cutive Mono', monospace;
+    font-size: large;
+    font-weight: bolder;
+
+}
+
+.Anchor:hover {
+
+    font-size: x-large;
+
+}
+
+p {
+    width: 40%;
+    font-size: large;
+    font-family: 'Cutive Mono', monospace;
+}
+
+img {
+    display: inline-block;
+    width: 32%;
+    margin-left: 650px;
+    margin-top: -400px;
+    border: 5px rgb(175, 246, 206) solid;
+    border-radius: 20px;
+}
+
+article {
+
+    font-size: medium;
+    font-family: 'Cutive Mono', monospace;
+}
+
+details {
+    font-size: x-large;
+}
+
+summary {
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+}
+
+aside {
+
+    background-color: rgba(175, 246, 206, 0.417);
+}
+
+span {
+
+    padding-left: 70px;
+    padding-bottom: 70px;
+    visibility: hidden;
+
+}
